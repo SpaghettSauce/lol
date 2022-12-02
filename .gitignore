@@ -1,4 +1,4 @@
 ?*.txt
 !"123.txt"
-!new?.txt
+new*.txt
 ?*.exe
